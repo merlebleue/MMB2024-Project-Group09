@@ -1,0 +1,11 @@
+asc_cycling = -4.157286110337805
+asc_cycling_female = -0.8049239945700127
+asc_driving = -1.9155478991335284
+asc_driving_female = 0.0791609559789671
+asc_pt = -2.4103042954497704
+asc_pt_female = 0.188745276144972
+beta_cost = -0.1456126099881033
+beta_time_cycling = -5.400175144806906
+beta_time_driving = -5.683095803420523
+beta_time_pt = -2.9785878638929013
+beta_time_walking = -7.638554775551939
