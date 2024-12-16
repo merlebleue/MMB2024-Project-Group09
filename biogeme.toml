@@ -30,9 +30,9 @@ identification_threshold = 1e-05 # float: if the smallest eigenvalue of the
 only_robust_stats = "True" # bool: "True" if only the robust statistics need to be
                            # reported. If "False", the statistics from the
                            # Rao-Cramer bound are also reported.
-generate_html = "True" # bool: "True" if the HTML file with the results must be
+generate_html = "False" # bool: "True" if the HTML file with the results must be
                        # generated.
-generate_pickle = "True" # bool: "True" if the pickle file with the results must be
+generate_pickle = "False" # bool: "True" if the pickle file with the results must be
                          # generated.
 
 [SimpleBounds]
